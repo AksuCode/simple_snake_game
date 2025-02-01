@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a very simple snake game.
+This is a very simple and crude snake game in order to get the initial steps with SDL2.
 
 
 ## Build and Run
