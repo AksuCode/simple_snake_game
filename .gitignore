@@ -1,0 +1,6 @@
+build
+
+# Workspace
+.vscode
+.clang-tidy
+.clang-format
